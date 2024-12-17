@@ -36,7 +36,7 @@
 
 5. Select the `PROJECT Brain Tumor Classification.py` file.
 
-6. Run the file.
+6. Run the file.(NOTE: PLEASE CHANGE THE FILE DIRECTORY IN `PROJECT Brain Tumor Classification.py` LINE 12)
 
    ![Run File](image-7.png)
 
