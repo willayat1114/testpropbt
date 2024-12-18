@@ -6,13 +6,13 @@
 
    ![VS Code](image.png)
 
-2. Install Python 3.1X (Latest version as of writing this file is 3.13)
+2. Install Python 3.12 (Latest version as of writing this file is 3.13)
 
 3. Set up Python environment variables:
    - Search for "Edit the system environment variables" in the Windows search box.
    - In the file explorer, navigate to:
      ```
-     C:\Users\USERNAME\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.1X_XYZ\LocalCache\local-packages\Python31X\Scripts
+     C:\Users\USERNAME\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_XYZ\LocalCache\local-packages\Python312\Scripts
      ```
    - Copy the address.
 
